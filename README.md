@@ -18,6 +18,6 @@
   </div>    
   
   <div align="center">
-   <img align="center"  alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"(https://www.linkedin.com/in/maine-calabrezi-de-souza-17b611278/)>
-   <img align="center"  alt="Linkedin" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"(https://instagram.com/_mainecalabrezi?igshid=ZDc4ODBmNjlmNQ==)>
-  
+   <a href="https://instagram.com/_mainecalabrezi/"target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="[https://instagram.com/_mainecalabrezi/](https://www.linkedin.com/in/maine-calabrezi-de-souza-17b611278/)"target="_blank"><img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" target="_blank"></a>
+  </div>
