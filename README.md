@@ -12,6 +12,8 @@
    <img align="center"  height ="38" width="40" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" >
   <img align="center"  height ="38" width="40" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" >
   <img align="center"  height ="38" width="40" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" >
+  <img align="center"  height ="38" width="40" alt="Python" src=""C:\Users\calab\Downloads\Python.jpeg"" >
+  
   
   <p>
   </p>
