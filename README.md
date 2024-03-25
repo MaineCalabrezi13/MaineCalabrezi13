@@ -5,7 +5,6 @@
   <img width="45%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaineCalabrezi13&layout=compact&hide_border=true&title_color=FF1493&text_color=FF1493&bg_color=0d1117" />
 </div>
 <br>
-<br>
   <div align="center" style="display: inline_block"<br>
   <img align="center"  height ="38" width="40" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center"  height ="30" width="40" alt="Html5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" >
