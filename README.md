@@ -13,6 +13,7 @@
   <img align="center"  height ="38" width="40" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" >
   <img align="center"  height ="38" width="40" alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" >
   <img align="center"  height ="38" width="40" alt="Delphi" src="https://static-00.iconduck.com/assets.00/delphi-icon-512x512-xmdej0k5.png" >
+  <img align="center"  height ="38" width="40" alt="Delphi" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png" >
   
   
   <p>
